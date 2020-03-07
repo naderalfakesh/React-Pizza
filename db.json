@@ -1,15 +1,15 @@
 {
   "pizzas": [
     {
-      "topping": "fd",
+      "topping": "asdasd",
       "size": "Medium",
       "vegetarian": true,
       "id": 1
     },
     {
-      "topping": "Pepperoni",
-      "size": "Large",
-      "vegetarian": true,
+      "topping": "Pepperoni2",
+      "size": "Medium",
+      "vegetarian": false,
       "id": 2
     },
     {
@@ -59,6 +59,18 @@
       "topping": "Chicken",
       "size": "Large",
       "vegetarian": true
+    },
+    {
+      "topping": "Nader",
+      "size": "Medium",
+      "vegetarian": true,
+      "id": 11
+    },
+    {
+      "topping": "Nader2",
+      "size": "Small",
+      "vegetarian": true,
+      "id": 12
     }
   ]
 }
